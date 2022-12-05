@@ -16,6 +16,7 @@ int main(){
         }
         else break;
     }
+
     
     cout<<cnt<<endl;
     return 0;
